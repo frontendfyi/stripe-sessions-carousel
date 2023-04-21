@@ -4,5 +4,8 @@
   "template": "vite-react-ts",
   "options": {
     "tailwind": true
+  },
+  "dependencies": {
+    "classnames": "latest"
   }
 }
