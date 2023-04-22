@@ -4,6 +4,12 @@
 
 @layer base {
   :root {
+    height: 100%;
     --color-primary: hsl(281.853, 100%, 68%);
+  }
+
+  /* These heights are only there so the example can be centered vertically. */
+  body, #root {
+    height: 100%;
   }
 }
