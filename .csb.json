@@ -1,11 +1,18 @@
 {
-  "openFiles": ["src/App.tsx", "src/index.css", "tailwind.config.js"],
+  "openFiles": [
+    "src/App.tsx",
+    "src/index.css",
+    "src/persons.ts",
+    "tailwind.config.js"
+  ],
   "activeFile": "src/App.tsx",
   "template": "vite-react-ts",
   "options": {
     "tailwind": true
   },
   "dependencies": {
-    "classnames": "latest"
+    "classnames": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
