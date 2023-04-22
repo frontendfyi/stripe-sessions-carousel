@@ -1,5 +1,8 @@
 # Recreating Stripe's Amazingly Detailed Carousel With Tailwind
 
+![CleanShot 2023-04-22 at 19 32 15](https://user-images.githubusercontent.com/2969573/233798567-20239c69-038b-4194-9622-95a357586a1a.gif)
+
+
 Last week Stripe released their new [Stripe Sessions](https://stripe.com/sessions) website, full of amazing details.
 One of the things that stood out was their speakers carousel. A carousel that has lot's of nice small animations and feels like a breeze to use.
 
