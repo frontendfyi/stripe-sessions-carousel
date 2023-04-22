@@ -4,7 +4,7 @@ import { persons } from "./persons";
 import { useEffect, useRef, useState } from "react";
 
 function App() {
-  const [activeItem, setActiveItem] = useState(3);
+  const [activeItem, setActiveItem] = useState(5);
   const wrapperRef = useRef<HTMLUListElement | null>(null);
   const timeoutRef = useRef<number | null>(null);
 
