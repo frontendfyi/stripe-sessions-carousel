@@ -42,7 +42,7 @@ function App() {
               onClick={() => setActiveItem(index)}
               aria-current={activeItem === index}
               className={classNames(
-                "relative md:w-[8%] md:first:w-[1%] md:last:w-[1%] md:[&[aria-current='true']]:w-[48%]",
+                "relative cursor-pointer md:w-[8%] md:first:w-[1%] md:last:w-[1%] md:[&[aria-current='true']]:w-[48%]",
                 "md:[transition:width_var(--transition,200ms_ease-in)]",
                 "md:before-block before:absolute before:bottom-0 before:left-[-10px] before:right-[-10px] before:top-0 before:hidden before:bg-white",
                 "md:[&:not(:hover),&:not(:first),&:not(:last)]:group-hover:w-[7%] md:hover:w-[12%]",
